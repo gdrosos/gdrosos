@@ -2,7 +2,7 @@
 
 ### I'm a Student, Researcher and Software Engineer
 
-- 🥅 2022 Goals: Learn more about software supply chains
+- 🥅 2023 Goals: Learn more about software supply chains
 
 ### Connect with me:
 
