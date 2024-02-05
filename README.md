@@ -2,8 +2,6 @@
 
 ### I'm a Student, Researcher and Software Engineer
 
-- 🥅 2023 Goals: Learn more about software supply chains
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://gdrosos.github.io/#gh-light-mode-only)
